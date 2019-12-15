@@ -1,0 +1,7 @@
+The project we created was an ATM. The ATM begins with initializing your bank account and PIN, and begins with a balance of 0. 
+Navigate through the program to deposit, withdraw, change pin, check balance, or exit. In order to save the configuration or any 
+changes, you must exit (press number 5 in the menu). 
+
+The features included are Deposit, withdraw, change pin, check balance, or exit. 
+
+To run the project, simply run main and follow the instructions.
